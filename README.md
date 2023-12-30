@@ -15,5 +15,8 @@ The goal of the project is to implement a software that can detect playing cards
 ```
 - Just open jupyter file, and press run all button to run the code. 
 
+## Code Execution
+
+- All the input files should be present in 
 ## Sample outputs
-![image](./data/outs/Screenshot_20221128_235002.png)
+![image](./data/outs/Screenshot_20221128_235003.png)
