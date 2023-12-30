@@ -17,6 +17,7 @@ The goal of the project is to implement a software that can detect playing cards
 
 ## Code Execution
 
-- All the input files should be present in 
+- All the input files should be present in data/input and all training files should be present in data/training
+- Run the .py in the src folder
 ## Sample outputs
 ![image](./data/outs/Screenshot_20221128_235003.png)
