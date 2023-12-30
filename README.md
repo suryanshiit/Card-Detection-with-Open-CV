@@ -1,4 +1,4 @@
-# Playing Card Detection
+# Card Detection
 
 ## Brief Description
 
